@@ -98,8 +98,8 @@ __10. Source Directory Tree:__
 
 ## Authors
 
-    Shuaib jawid - 211IT087
-    Ashwani kumar - 211IT013
+    Rahul- 221CS141
+    Umang - 221CS163
     Jaheer khan - 211IT026
 
 
